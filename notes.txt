@@ -1,0 +1,30 @@
+PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Django_PyShop\pyshop> py .\manage.py createsuperuser
+Username (leave blank to use 'yashwanthpindi'): yashwanthpindi
+Email address: pyashwanth32@gmail.com
+Password: password
+Password (again): password
+This password is too common.
+Bypass password validation and create user anyway? [y/N]: y
+Superuser created successfully.
+PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Django_PyShop\pyshop>
+
+
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+django-admin startproject pyshop
+
+pip install django
+
+py .\manage.py runserver
+
+py .\manage.py startapp products
+
+py .\manage.py makemigrations
+py .\manage.py migrate
+
+py .\manage.py createsuperuser
+
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://getbootstrap.com/docs/4.0/components/card/
+https://getbootstrap.com/docs/4.0/components/navbar/
+
